@@ -17,9 +17,9 @@ python library_manager.py <action> [package_name]
 
 ## 🧪 Examples
 ```bash
-python library_manager.py install requests
-python library_manager.py list
-python library_manager.py update pandas
-python library_manager.py outdated
-python library_manager.py update-all
+python librarymanager.py install requests
+python librarymanager.py list
+python librarymanager.py update pandas
+python librarymanager.py outdated
+python librarymanager.py update-all
 ```
