@@ -12,7 +12,7 @@ A simple command-line tool to manage Python packages using `pip`.
 
 ## 🚀 Usage
 ```bash
-python library_manager.py <action> [package_name]
+python librarymanager.py <action> [package_name]
 ```
 
 ## 🧪 Examples
